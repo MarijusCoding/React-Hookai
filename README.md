@@ -1,8 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Kas čia?
 
-## Getting Started
+Šioje repo mokinuosi bei bandau suprasti kaip veikia React hook'ai.
 
-First, run the development server:
+## Serverio paleidimas
+
+Pasileisti serverį:
 
 ```bash
 npm run dev
@@ -12,7 +14,7 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Atsidarykite [http://localhost:3000](http://localhost:3000) su savo naršykle.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
